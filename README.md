@@ -1,46 +1,44 @@
 <div align="center">
 
-# Hi, I'm Aidan Thompson 👋
-<p>
-  <img src="https://github.com/Aidan-Thompson3/Aidan-Thompson3/blob/main/text_animation.gif?raw=true" alt="Typing at JM Family> 
-</p>
+<img src="https://github.com/Aidan-Thompson3/Aidan-Thompson3/blob/main/text_animation.gif" alt="Aidan Thompson banner animation" width="85%" />
 
-
-
-ITS Academy Associate • Florida State University Graduate
+**Software Engineer @ JM Family Enterprises**
 
 </div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 💼 Software Engineer at **JM Family Enterprises**
-- 🎓 B.S. in Computer Science from **Florida State University**
-- 💻 Passionate about software development and problem solving
-- 🔧 Primarily working with **C#**, **.NET**, and modern development tools
-- ☁️ Currently pursuing **Microsoft Azure Fundamentals (AZ-900)**
-- 📚 Always learning new technologies and improving my craft
+- B.S. in Computer Science, **Florida State University**
+- Currently a **Software Engineer** at **JM Family Enterprises**, as part of their **ITS Academy Program**
+- C#, C++, or Python
+- Based in South Florida
 
 ---
 
-## 🛠️ Technologies
+### 🛠️ Tech Stack
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=&logoColor=white
-![.NET](https://img.shields.io/badge/.NET-512BD4?style-badge&logo=dotnet&logoColor=white
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&osoftazure&logoColor=white
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&t&logoColor=white
-![GitHub](https://img.shields.io/badge/GitHub-181717-the-badge&logo=github&logoColor=white
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logooColor=white
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+</div>
+
+
+
+</div>
+
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
-
-![Aidan's GitHub Stats](https://github-readme-stats.vercel.app/son3&show_icons=true&theme=tokyonight
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidan-Thompson3heme=tokyonight
-
----
-
-## 🎯 Current
+<div align="center">
+<i>Thanks for stopping by! ⭐ this profile if you'd like.</i>
+</div>
