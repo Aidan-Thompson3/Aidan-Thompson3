@@ -12,7 +12,7 @@
 
 - B.S. in Computer Science, **Florida State University**
 - Currently a **Software Engineer** at **JM Family Enterprises**, as part of their **ITS Academy Program**
-- C#, C++, or Python
+- C#, C++, Python
 - Based in South Florida
 
 ---
